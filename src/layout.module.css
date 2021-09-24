@@ -1,0 +1,13 @@
+.layoutModal {
+    height: 78%;
+}
+
+.layoutModalMinHeight {
+    min-height: '100%';
+}
+.header {
+    background: #5ca1da;
+}
+.footer {
+    background: #ccb6c8;
+}
