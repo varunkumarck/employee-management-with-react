@@ -9,8 +9,8 @@ export default function About() {
         <div className="container py-5">
           <div className="row h-100 align-items-center py-5">
             <div className="col-lg-6">
-              <h1 className="display-4">Future Group</h1>
-              <p className="lead text-muted mb-0">Founded in 2021, Future group helps organizations to manage their employees</p>
+              <h1 className="display-4">WebTwinz</h1>
+              <p className="lead text-muted mb-0">Founded in 2021, WebTwinz helps organizations to manage their employees</p>
 
             </div>
           </div>

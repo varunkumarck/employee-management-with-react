@@ -68,11 +68,11 @@ export default function ContactUs() {
               <ul className="list-unstyled mb-0">
                 <li><h5 style={{ fontStyle: 'italic' }}>Address of Communication</h5></li>
                 <br />
-                <li>#38 Leela Galleria</li>
-                <li>Shanthi Niketan</li>
-                <li>Bangalore 35</li><br/>
+                <li>#</li>
+                <li>Building Name</li>
+                <li>City</li><br/>
                 <li><i className="fas fa-envelope mt-4 fa-2x"></i>
-                  <p>contact@futuregroup.com</p>
+                  <p>contact@webtwinz.com</p>
                 </li>
               </ul>
             </div>

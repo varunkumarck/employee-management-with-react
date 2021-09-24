@@ -7,7 +7,7 @@ export default function PublicNavBar() {
       <div>
         <Navbar className={styles.menuBar}>
           <Container>
-            <Navbar.Brand style={{ color: 'white' }}>Future group</Navbar.Brand>
+            <Navbar.Brand style={{ color: 'white' }}>Web Twinz</Navbar.Brand>
             <Nav className="mr">
               <Link className="menu-item" to="/">Home</Link>
               <Link className="menu-item" to="/about">About</Link>
